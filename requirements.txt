@@ -1,0 +1,9 @@
+numpy
+scipy
+requests
+beautifulsoup4
+pandas
+pytest
+chromadb
+google-generativeai
+Pillow
